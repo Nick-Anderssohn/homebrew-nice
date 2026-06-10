@@ -1,6 +1,6 @@
 cask "nice" do
-  version "0.24.1"
-  sha256 "7aa4a83d662daafe80c241616200e878bd62951c949e73ad285fec180b2fcbaa"
+  version "0.25.0"
+  sha256 "5324adf47da2191372ecde0d1f1e8d06ada0f643a48235621c09d55dbfdc6dcb"
 
   url "https://github.com/Nick-Anderssohn/nice/releases/download/v#{version}/Nice-#{version}.zip"
   name "Nice"
