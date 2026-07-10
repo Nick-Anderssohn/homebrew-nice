@@ -5,7 +5,7 @@
 # first release's bump PR; the cask is not installable until then.
 cask "nice-rs" do
   version "0.1.0"
-  sha256 "0000000000000000000000000000000000000000000000000000000000000000"
+  sha256 "e847a70ff6f22222d7f0b5347883f0b473c8a800a8b83f67ee21215d3791c602"
 
   url "https://github.com/Nick-Anderssohn/nice/releases/download/rs-v#{version}/Nice-RS-#{version}.zip"
   name "Nice RS (experimental)"
