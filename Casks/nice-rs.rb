@@ -4,8 +4,8 @@
 # rs-vX.Y.Z prerelease tags. The placeholder sha below is replaced by the
 # first release's bump PR; the cask is not installable until then.
 cask "nice-rs" do
-  version "0.1.3"
-  sha256 "5ce1274c3011429cd3915f7cc079f91f6b4777fb66d93e6652337668c35297f3"
+  version "0.1.4"
+  sha256 "b716dcaf72df2be80846f6452eb8dd911e75523fa86de6aed6585ce38ebef498"
 
   url "https://github.com/Nick-Anderssohn/nice/releases/download/rs-v#{version}/Nice-RS-#{version}.zip"
   name "Nice RS (experimental)"
