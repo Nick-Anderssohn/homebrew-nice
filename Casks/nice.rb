@@ -12,6 +12,7 @@ cask "nice" do
   app "Nice.app"
 
   zap trash: [
+    "~/Library/Application Support/Nice",
     "~/Library/Preferences/dev.nickanderssohn.nice.plist",
     "~/Library/Saved Application State/dev.nickanderssohn.nice.savedState",
   ]
